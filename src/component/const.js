@@ -1,0 +1,1 @@
+export const COLOR_PRIME = "#C3005F"
